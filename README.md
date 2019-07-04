@@ -4,6 +4,8 @@
 * Since data has been collected in summer the temperatures are warmer in northen hemisphire.
 * There is no relationship between city latitude and wind speed, cloudiness and Humidity.
 
+
+
 ## Instructions
 ## Background
 
